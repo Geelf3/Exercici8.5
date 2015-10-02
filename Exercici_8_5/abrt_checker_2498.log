@@ -1,0 +1,22 @@
+Uncaught java.lang.Error exception in thread "main" in a method HashSetCotxe.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	UsingComparator cannot be resolved to a type
+	fifoAutos cannot be resolved to a variable
+	llistaPrioCotxe cannot be resolved
+	llistaPrioCotxe2 cannot be resolved
+	llistaPrioCotxe cannot be resolved
+	llistaPrioCotxe cannot be resolved
+	lifoAutos cannot be resolved
+	UsingComparator cannot be resolved to a type
+	fifoAutos cannot be resolved
+	UsingComparator cannot be resolved to a type
+	llistaPrioCotxe cannot be resolved
+	UsingComparator cannot be resolved to a type
+	lifoAutos cannot be resolved
+	lifoAutos cannot be resolved
+	fifoAutos cannot be resolved
+	fifoAutos cannot be resolved
+	llistaPrioCotxe cannot be resolved
+	llistaPrioCotxe cannot be resolved
+
+	at HashSetCotxe.main(HashSetCotxe.java:30) [file:/home/users/inf/wiaw2/iaw47965399/workspace/Exercici_8_5/bin/HashSetCotxe.class]
